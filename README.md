@@ -1,4 +1,4 @@
-# opinion_dynamics.github
+opinion_dynamics.github
 随机游走意见动力学
 ### 《Emergence of metapopulations and echo chambers in mobile agents》论文阅读
 Metapopulations 是一个生态学和人口生物学的概念，用来描述在地理上分散的种群集合，这些种群在局部地区内可以独立存在，但又通过个体的迁移在不同地区之间相互联系。这个概念由理查德·莱文斯（Richard Levins）在1969年提出，用于解释种群动态和物种在空间上的分布模式。以下是一些关键点：
